@@ -1,14 +1,14 @@
-Hotel Performance Intelligence: Driving Growth Through Data Strategy
+## Hotel Performance Intelligence: Driving Growth Through Data Strategy
 
-Focus: Profitability, Booking Behavior & Guest Segmentation
+## Focus: Profitability, Booking Behavior & Guest Segmentation
 
-Tools Used: Excel, SQL, Power BI
+## Tools Used: Excel, SQL, Power BI
 
-Objective
+## Objective
 
 Transform raw hotel booking data into strategic insights that guide stakeholder decisions across revenue optimization, guest targeting, and operational efficiency.
 
-Approach
+## Approach
 
 Extracted and cleaned booking data using SQL, standardizing date formats, removing nulls, and normalizing categorical variables
 
@@ -22,7 +22,7 @@ Enabled drill-through analysis across reservation status, room type, and market 
 
 Integrated slicers for dynamic filtering by geography, booking channel, and customer type
 
-Key Insights
+## Key Insights
 
 Net Profit: $14.48M, indicating strong financial performance
 
@@ -34,7 +34,7 @@ OTAs: Longest lead time and highest ADR, but also highest cancellation rate
 
 Transient Guests: Dominant customer type, with moderate engagement and high revenue potential
 
-Recommended Actions
+## Recommended Actions
 
 Promote Direct Bookings Reduce OTA dependency and improve margins by incentivizing direct channels.
 
@@ -44,7 +44,7 @@ Mitigate Cancellations Introduce flexible booking policies and non-refundable in
 
 Enhance Transient Guest Experience Personalize offerings and loyalty perks to boost retention and lifetime value.
 
-Visual Highlights
+## Visual Highlights
 
 ADR breakdown by room type and market segment
 
