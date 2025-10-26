@@ -1,8 +1,8 @@
 ## Hotel Performance Intelligence: Driving Growth Through Data Strategy
 
-## Focus: Profitability, Booking Behavior & Guest Segmentation
+**Focus:** Profitability, Booking Behavior & Guest Segmentation
 
-## Tools Used: Excel, SQL, Power BI
+**Tools Used:** Excel, SQL, Power BI
 
 ## Objective
 
